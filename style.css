@@ -1,0 +1,16 @@
+header{
+    background-color: #261B2F;
+    color: rgb(255, 115, 0);
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+body{
+    background-color: #2E1E3C;
+}
+.titulo-centralizado {
+    text-align: center;
+    color: rgb(8, 61, 249);
+}
