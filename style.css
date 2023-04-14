@@ -1,14 +1,19 @@
 header{
     background-color: #261B2F;
-    color: rgb(255, 115, 0);
 }
 
 .titulo-principal {
 	padding-left: 20px;
+    display: inline-block;
+    color: rgb(255, 115, 0);
+}
+
+.cabecalho-imagem{
+  whidth: 10%;
 }
 
 body{
-    background-color: #2E1E3C;
+    background-color: linear-gradient(#2E1E3C,#8441B9);
 }
 .titulo-centralizado {
     text-align: center;
